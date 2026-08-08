@@ -1,4 +1,4 @@
-body {
+ni body {
     background-color: black; /* Fondo principal negro */
     color: white; /* Texto general blanco para leerse bien */
     font-family: Arial, sans-serif;
@@ -11,5 +11,5 @@ h1 {
 }
 
 p {
-    color: #b0c4de; /* Un tono azulado claro para el texto secundario que combina perfecto */
+    color: #b0c4de; /* Un tono azulado para el texto secundario que combina perfecto */
 }
